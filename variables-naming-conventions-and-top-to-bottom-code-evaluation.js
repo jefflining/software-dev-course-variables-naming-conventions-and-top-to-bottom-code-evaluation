@@ -28,7 +28,7 @@ let shopperName = "Alice";
 let howMany = 5;
 let totalCost = 20;
 let storeName = "Target";
-let dayOfWee = "Sunday";
+let dayOfWeek = "Sunday";
 let output = shopperName + " bought " + howMany + " items for $" + totalCost + " at " + storeName + " on " + dayOfWeek + ".";
 
 console.log(output);
